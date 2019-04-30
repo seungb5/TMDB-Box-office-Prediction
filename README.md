@@ -37,6 +37,6 @@ ___
 ![](https://user-images.githubusercontent.com/46778769/56775271-47c72400-6801-11e9-86c2-0d063b14ea23.PNG)
 ##### **github를 이용한 협업**
 ![](https://user-images.githubusercontent.com/46778769/56771316-3d9d2980-67f1-11e9-928e-820196dca0cf.PNG)
-#####  **github issue를 이용한 code 공유**
+#####  **github issue를 이용한 source code 공유**
 ![](https://user-images.githubusercontent.com/46778769/56957358-ce715d80-6b81-11e9-96ec-cf7a45f2a91b.PNG)
 ![](https://user-images.githubusercontent.com/46778769/56771008-6b35a300-67f0-11e9-9c0c-9516f32a18dd.PNG)
