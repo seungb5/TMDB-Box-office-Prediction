@@ -40,3 +40,6 @@ ___
 #####  **github issue를 이용한 source code 공유**
 ![](https://user-images.githubusercontent.com/46778769/56957358-ce715d80-6b81-11e9-96ec-cf7a45f2a91b.PNG)
 ![](https://user-images.githubusercontent.com/46778769/56771008-6b35a300-67f0-11e9-9c0c-9516f32a18dd.PNG)
+
+## **3. 프로젝트 진행과정**
+- [프로젝트 보고서](https://github.com/seungb5/TMDB-Box-office-Prediction/blob/master/%EB%B3%B4%EA%B3%A0%EC%84%9C.ipynb)
