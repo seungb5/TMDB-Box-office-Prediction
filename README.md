@@ -28,13 +28,13 @@ ___
 ![](https://user-images.githubusercontent.com/46778769/56957358-ce715d80-6b81-11e9-96ec-cf7a45f2a91b.PNG)
 ![](https://user-images.githubusercontent.com/46778769/56771008-6b35a300-67f0-11e9-9c0c-9516f32a18dd.PNG)
 
-## **3. 프로젝트 진행과정**
+## **3. 프로젝트 결과**
 #### 3.1. 보고서
-[프로젝트 보고서](https://github.com/seungb5/TMDB-Box-office-Prediction/blob/master/%EB%B3%B4%EA%B3%A0%EC%84%9C.ipynb)
+[TMDB 프로젝트 보고서](https://github.com/seungb5/TMDB-Box-office-Prediction/blob/master/%EB%B3%B4%EA%B3%A0%EC%84%9C.ipynb)
 
-#### 3.2. 분석과정
+#### 3.2. 분석과정, 학습 결과
 - [변수 정보](https://github.com/seungb5/TMDB-Box-office-Prediction/blob/master/%EB%B3%80%EC%88%98%20%EC%A0%95%EB%B3%B4_python.ipynb)
 - [EDA & FE](https://github.com/seungb5/TMDB-Box-office-Prediction/blob/master/EDA%2C%20FE.ipynb)
-- model 
+- ML model 
   - [base model](https://www.kaggle.com/tmznql1234/base-model) : 1st submission
   - [2nd submission](https://github.com/seungb5/TMDB-Box-office-Prediction/blob/master/seoul-coding-academy_2nd_submission.ipynb)
