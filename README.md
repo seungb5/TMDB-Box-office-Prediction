@@ -30,11 +30,11 @@ ___
 
 ## **3. 프로젝트 결과**
 #### 3.1. 보고서
-[TMDB 프로젝트 보고서](https://github.com/seungb5/TMDB-Box-office-Prediction/blob/master/%EB%B3%B4%EA%B3%A0%EC%84%9C.ipynb)
+[TMDB 프로젝트 보고서](https://github.com/seungb5/TMDB-Box-office-Prediction/blob/master/TMDB%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%B3%B4%EA%B3%A0%EC%84%9C.ipynb)
 
 #### 3.2. 분석과정, 학습 결과
 - [변수 정보](https://github.com/seungb5/TMDB-Box-office-Prediction/blob/master/%EB%B3%80%EC%88%98%20%EC%A0%95%EB%B3%B4_python.ipynb)
 - [EDA & FE](https://github.com/seungb5/TMDB-Box-office-Prediction/blob/master/EDA%2C%20FE.ipynb)
 - ML model 
   - [base model](https://www.kaggle.com/tmznql1234/base-model) : 1st submission
-  - [2nd submission](https://github.com/seungb5/TMDB-Box-office-Prediction/blob/master/seoul-coding-academy_2nd_submission.ipynb)
+  - [2nd submission](https://www.kaggle.com/tmznql1234/seoul-coding-academy)
