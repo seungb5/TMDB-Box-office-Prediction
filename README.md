@@ -21,7 +21,7 @@ ___
 #### 2.2. **팀 운영 방법**
 작업 내용 공유:
 ##### **Google drive를 이용한 공용 드라이브 운영**
-![](https://user-images.githubusercontent.com/46778769/56775271-47c72400-6801-11e9-86c2-0d063b14ea23.PNG)
+![](https://user-images.githubusercontent.com/46778769/57315246-2550d700-712e-11e9-9556-8ad8b78a6a42.PNG)
 ##### **github를 이용한 협업**
 ![](https://user-images.githubusercontent.com/46778769/56771316-3d9d2980-67f1-11e9-928e-820196dca0cf.PNG)
 #####  **github issue를 이용한 source code 공유**
